@@ -5089,7 +5089,7 @@ a.badge-dark:hover, a.badge-dark:focus {
   margin-bottom: 2rem;
   background-color: #e9ecef;
   border-radius: 0.3rem;
-  background-image: src="imgs/jumbotron.jpg"
+  background-image: src="https://raw.githubusercontent.com/rodrigosdrawin/rodrigosdrawin.github.io/master/imgs/jumbotron.jpg"   
 }
 
 @media (min-width: 576px) {
