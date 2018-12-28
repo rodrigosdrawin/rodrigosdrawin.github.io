@@ -27,6 +27,15 @@ header {
   display: block;
 }
 
+.sidenav p {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #ffffff;
+  display: block;
+}
+
+
 .sidenav a:hover {
   color: #f1f1f1;
 }
